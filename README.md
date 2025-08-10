@@ -12,6 +12,8 @@ This. if it runs without error, will create two files, sov_chart.png and sov_res
 
 Example files are attached in the repo
 
+<b> If you are more comfortable running the scripts in Colab (for security concerns etc) use the ``` SoV_Agent_colab.ipynb``` notebook </b>
+
 ## Troubleshooting
 ### Module Import Errors 
 Ensure that the setup.py runs correctly. You might need to update certain packages, like torch
